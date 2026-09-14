@@ -9,7 +9,7 @@ Kompleksowy projekt analityczno-raportowy Business Intelligence zrealizowany w �
 - **Automatyzacja:** wykorzystanie formuł zaawansowanych i makr VBA do obsługi odświeżania i czyszczenia danych.
 
 ## Podgląd Dashboardu
-*(w tym miejscu wklej zrzut ekranu `dashboard_preview.png` metodą przeciągnij i upuść)*
+<img width="2102" height="1104" alt="dashboard_preview" src="https://github.com/user-attachments/assets/51e3bb2b-48f8-477a-8abc-99fd08012a25" />
 
 ## Struktura plików
 - `sales_analytics_dashboard.xlsm` – główny skoroszyt analityczny z dashboardem i warstwą analityczną.
